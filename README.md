@@ -3,7 +3,7 @@ Cheats event which increase population of yours country by 1250% in the random r
 ____
 # How to use this event ? Descriptions :white_check_mark:
 ____
-# 1)Open Victoria 2\common and add in this event_modifiers.txt
+# 1) Open Victoria 2\common and add in this event_modifiers.txt
 -Add this strings 
 ![](screenshots/1.png)
 # 2) Victoria 2\events 
