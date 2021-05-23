@@ -1,0 +1,177 @@
+leader = {
+	name = "Albert Prisse"
+	date = 1834.1.1
+	type = land
+	personality = smart_p
+	background = diplomat
+	prestige = 0.3
+}
+
+leader = {
+	name = "Pierre Chazal"
+	date = 1842.1.1
+	type = land
+	personality = balanced_p
+	background = corrupt
+	prestige = 0.2
+}
+
+leader = {
+	name = "Lйonard Greindl"
+	date = 1845.1.1
+	type = land
+	personality = imperious
+	background = artillerist
+	prestige = 0.2
+}
+
+leader = {
+	name = "L.M. Brialmont"
+	date = 1849.1.1
+	type = land
+	personality = doughty
+	background = exranker
+	prestige = 0.2
+}
+
+leader = {
+	name = "Bruno Renard"
+	date = 1854.1.1
+	type = land
+	personality = inspiring
+	background = professor
+	prestige = 0.2
+}
+
+leader = {
+	name = "Van der Linden"
+	date = 1859.1.1
+	type = land
+	personality = imperious
+	background = yesman
+	prestige = 0.1
+}
+
+leader = {
+	name = "Auguste Goethals"
+	date = 1859.1.1
+	type = land
+	personality = diplomatic
+	background = exranker
+	prestige = 0.1
+}
+
+leader = {
+	name = "Fleury-Duray"
+	date = 1861.1.1
+	type = land
+	personality = meticulous
+	background = war_college
+}
+
+army = {
+	name = "1-й Корпус"
+	location = 389
+	regiment = {
+		name= "1-я пехотная дивизия"
+		type = infantry
+		home = 387
+	}
+
+	regiment = {
+		name= "2-я пехотная дивизия"
+		type = infantry
+		home = 388
+	}
+
+	regiment = {
+		name= "3-я пехотная дивизия"
+		type = infantry
+		home = 389
+	}
+
+	regiment = {
+		name= "1-я артиллерийская дивизия"
+		type = artillery
+		home = 387
+	}
+
+	regiment = {
+		name= "4-я пехотная дивизия"
+		type = infantry
+		home = 390
+	}
+
+	regiment = {
+		name= "5-я пехотная дивизия"
+		type = infantry
+		home = 391
+	}
+
+	regiment = {
+		name= "6-я пехотная дивизия"
+		type = engineer
+		home = 393
+	}
+
+	regiment = {
+		name= "1-й кавалерийский корпус"
+		type = hussar
+		home = 387
+	}
+
+	regiment = {
+		name= "2-й кавалерийский корпус"
+		type = dragoon
+		home = 388
+	}
+
+	regiment = {
+		name= "3-й кавалерийский корпус"
+		type = dragoon
+		home = 389
+	}
+
+}
+
+army = {
+	name = "2-й корпус"
+	location = 394
+	regiment = {
+		name= "7-я пехотная дивизия"
+		type = infantry
+		home = 394
+	}
+
+	regiment = {
+		name= "8-я пехотная дивизия"
+		type = infantry
+		home = 395
+	}
+
+	regiment = {
+		name= "9-я пехотная дивихия"
+		type = engineer
+		home = 392
+	}
+
+	regiment = {
+		name= "10-я пехотная дивизия"
+		type = infantry
+		home = 398
+	}
+
+	regiment = {
+		name= "11-я пехотная дивизия"
+		type = infantry
+		home = 396
+	}
+
+	regiment = {
+		name= "12-я пехотная дивизия"
+		type = artillery
+		home = 394
+	}
+
+}
+

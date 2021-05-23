@@ -1,0 +1,26 @@
+# Population increases
+country_event = {
+id = 80777
+
+trigger = {
+ai = no 
+}
+
+mean_time_to_happen = {
+months = 2000
+}
+
+title = "Population increases"
+desc = " Population increase by 1250% in the random region "
+picture = "Unite"
+option = {
+name = " Children grow very rapidly."
+random_province = {
+add_province_modifier = {
+name = child_growth
+duration = 34
+}
+}
+}
+}
+
