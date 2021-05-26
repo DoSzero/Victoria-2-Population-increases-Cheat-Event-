@@ -1,4 +1,4 @@
-# Victoria-2-Population-increases-Cheat-Event
+# Victoria-2-Increase-Population-Cheat-Event
 Cheats event which increase population of yours country by 1250% in the random region (Cheat Event 80777) . 
 ____
 # How to use this event ? Descriptions :white_check_mark:
